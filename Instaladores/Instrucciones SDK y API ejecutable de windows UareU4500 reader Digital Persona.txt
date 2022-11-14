@@ -1,0 +1,19 @@
+NOTA: Este instructivo es unicamente para la instalacion del SDK y ejecucion del microservicio API del .net para el reconocimiento y comparacion de las huellas. Son necesarios para el uso exclusivo del lector de huellas a traves del portalweb.
+
+=====================================
+
+Requisitos SDK.
+SO windows
+Navegador Chrome (para usar el aplicativo)
+API ejecutable .net ejecutado en windows.
+
+
+=====================================
+
+INSTRUCCIONES.
+
+1. Instalar el sdk a traves del ejecutable segun la estructura del sistema operativo.
+2. Ingresar a C:\Program Files (x86)\DigitalPersona\Bin y ejecutar DPAgent. Esto es para que el SDK web sea reconocido en el sistema. Generalmente no lo reconose si no se hace este paso.
+
+======================================
+Importante tomar en cuenta la direccion ip de la maquina donde se ejecuta localmente el exe del servicio para el lector de huella para la configuracion del aplicativo web.
