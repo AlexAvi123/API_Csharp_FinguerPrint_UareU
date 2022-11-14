@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZgXkBh5OSBhyx8eCZY3dYewbLvS3wPhYR8GRQYS5EBWP97HABDMG+ZaDGc5qSpH9kj0eck1kiPygt0YoQLQ2JA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\AxelHF\\source\\repos\\apifingerControler3\\apifingerControler3\\apifingerControler3.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.AspNetCore.App.Runtime.linux-x64' from remote source 'https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.app.runtime.linux-x64/index.json'.",
+      "libraryId": "Microsoft.AspNetCore.App.Runtime.linux-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.NETCore.App.Host.linux-x64' from remote source 'https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.host.linux-x64/index.json'.",
+      "libraryId": "Microsoft.NETCore.App.Host.linux-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.NETCore.App.Runtime.linux-x64' from remote source 'https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.runtime.linux-x64/index.json'.",
+      "libraryId": "Microsoft.NETCore.App.Runtime.linux-x64"
+    }
+  ]
+}

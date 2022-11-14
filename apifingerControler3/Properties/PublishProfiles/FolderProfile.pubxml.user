@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\AxelHF\Desktop\buildFP\windows</_PublishTargetUrl>
+    <History>True|2022-10-19T22:23:46.4267578Z;False|2022-10-19T17:23:16.3769531-05:00;False|2022-10-19T17:22:50.6484375-05:00;False|2022-10-19T17:21:57.6767578-05:00;False|2022-10-19T17:16:51.6328125-05:00;False|2022-10-19T17:05:00.5976562-05:00;False|2022-10-19T17:03:55.0996093-05:00;False|2022-10-19T17:01:38.1826171-05:00;False|2022-10-19T16:28:18.7988281-05:00;False|2022-10-19T16:27:37.6259765-05:00;False|2022-10-19T16:23:50.8515625-05:00;False|2022-10-19T16:15:01.0712890-05:00;False|2022-10-19T15:57:30.2724609-05:00;False|2022-10-19T15:45:52.4716796-05:00;False|2022-10-19T15:24:20.2353515-05:00;False|2022-10-19T15:19:39.8613281-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

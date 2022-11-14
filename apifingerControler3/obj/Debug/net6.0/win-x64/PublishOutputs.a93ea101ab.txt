@@ -1,0 +1,11 @@
+C:\Users\AxelHF\source\repos\apifingerControler3\FPS_win-x64_v2\appsettings.Development.json
+C:\Users\AxelHF\source\repos\apifingerControler3\FPS_win-x64_v2\appsettings.json
+C:\Users\AxelHF\source\repos\apifingerControler3\FPS_win-x64_v2\libman.json
+C:\Users\AxelHF\source\repos\apifingerControler3\FPS_win-x64_v2\apifingerControler3.pdb
+C:\Users\AxelHF\source\repos\apifingerControler3\FPS_win-x64_v2\aspnetcorev2_inprocess.dll
+C:\Users\AxelHF\source\repos\apifingerControler3\FPS_win-x64_v2\sni.dll
+C:\Users\AxelHF\source\repos\apifingerControler3\FPS_win-x64_v2\DPCtlUruNet.xml
+C:\Users\AxelHF\source\repos\apifingerControler3\FPS_win-x64_v2\DPCtlXUru.xml
+C:\Users\AxelHF\source\repos\apifingerControler3\FPS_win-x64_v2\DPUruNet.xml
+C:\Users\AxelHF\source\repos\apifingerControler3\FPS_win-x64_v2\DPXUru.xml
+C:\Users\AxelHF\source\repos\apifingerControler3\FPS_win-x64_v2\apifingerControler3.exe
