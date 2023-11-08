@@ -14,6 +14,7 @@ INSTRUCCIONES.
 
 1. Instalar el sdk a traves del ejecutable segun la estructura del sistema operativo.
 2. Ingresar a C:\Program Files (x86)\DigitalPersona\Bin y ejecutar DPAgent. Esto es para que el SDK web sea reconocido en el sistema. Generalmente no lo reconose si no se hace este paso.
+3. descomprimir winV3-x64.zip y ejecutar el archivo .exe
 
 ======================================
 Importante tomar en cuenta la direccion ip de la maquina donde se ejecuta localmente el exe del servicio para el lector de huella para la configuracion del aplicativo web.
